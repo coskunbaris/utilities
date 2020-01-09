@@ -1,2 +1,2 @@
-# utilities
+# Utilities
 JS functions collection
